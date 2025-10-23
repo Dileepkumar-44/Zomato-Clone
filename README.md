@@ -8,6 +8,10 @@ The frontend is built using React.js, ensuring a smooth, responsive, and dynamic
 
 Check it out live at: https://super-horse-f84399.netlify.app/
 
+# Overview
+
+The Zomato Clone Website is a full-stack web application that replicates the core features of Zomato, allowing users to explore restaurants, view menus, and place food orders online. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), the app features a responsive UI, secure authentication, and dynamic data handling for a seamless food discovery and ordering experience.
+
 # Features
   Restaurant search and filtering by name, cuisine, or location
 
