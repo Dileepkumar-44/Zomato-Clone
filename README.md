@@ -7,3 +7,16 @@ The application allows users to explore nearby restaurants, browse menus, and pl
 The frontend is built using React.js, ensuring a smooth, responsive, and dynamic user experience across all devices. The Node.js and Express.js backend handles API requests, user authentication, and data flow between the client and server efficiently. All restaurant, menu, and user data are stored securely in MongoDB, ensuring fast access and scalability.
 
 Check it out live at: https://super-horse-f84399.netlify.app/
+
+# Features
+  Restaurant search and filtering by name, cuisine, or location
+
+User authentication with secure login and signup functionality
+
+Dynamic menu display and cart system for ordering
+
+Responsive design, optimized for both desktop and mobile users
+
+This project helped me gain hands-on experience in full-stack web development, API integration, and responsive UI design. It also strengthened my understanding of managing application state, routing, and backend communication in real-time web applications.
+
+The Zomato Clone Website not only highlights my technical skills but also reflects my ability to create user-centric digital experiences that are functional, scalable, and visually engaging.
